@@ -2,6 +2,8 @@
 ## Overview
 This repository contains the excel file and documentation for a data analysis project conducted on Freshco Hypermarket's 2021 data. The analysis aims to optimize operational efficiency and marketing strategies by uncovering insights across four main aspects: Order Level, Completion Rate, Customer Level, and Delivery.
 
+<img width="745" height="559" alt="image" src="https://github.com/user-attachments/assets/93142282-0960-4d42-b6f0-fdebff1a4af6" />
+
 ## Dashboard Overview
 
 <img width="842" height="230" alt="image" src="https://github.com/user-attachments/assets/7d1ef724-8260-4fea-ad13-8115e16221e2" />
