@@ -16,6 +16,10 @@ This repository contains the excel file and documentation for a data analysis pr
 
 <img width="831" height="142" alt="image" src="https://github.com/user-attachments/assets/a6acbf24-e152-47c1-ad99-a2574255e949" />
 
+## 📌 Highlights
+
+<img width="552" height="126" alt="image" src="https://github.com/user-attachments/assets/6fafe7a7-81b5-415f-af5f-d618254ae255" />
+
 ## Key Insights Delivered
 
 <img width="828" height="491" alt="image" src="https://github.com/user-attachments/assets/79e0a660-2431-4add-953b-171caac09243" />
