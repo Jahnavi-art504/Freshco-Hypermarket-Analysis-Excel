@@ -12,7 +12,7 @@ This repository contains the excel file and documentation for a data analysis pr
 
 <img width="834" height="238" alt="image" src="https://github.com/user-attachments/assets/98742035-3268-4c3f-9a75-c4b91a2d9789" />
 
-## Features
+## 💼 Features and Responsibilities
 
 <img width="831" height="142" alt="image" src="https://github.com/user-attachments/assets/a6acbf24-e152-47c1-ad99-a2574255e949" />
 
