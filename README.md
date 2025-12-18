@@ -1,4 +1,4 @@
-# Freshco Hypermarket Data Analysis Project
+# 🛒Freshco Hypermarket Data Analysis Project
 ## Overview
 This repository contains the excel file and documentation for a data analysis project conducted on Freshco Hypermarket's 2021 data. The analysis aims to optimize operational efficiency and marketing strategies by uncovering insights across four main aspects: Order Level, Completion Rate, Customer Level, and Delivery.
 
