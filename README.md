@@ -5,15 +5,12 @@ This repository contains the excel file and documentation for a data analysis pr
 <img width="1563" height="660" alt="image" src="https://github.com/user-attachments/assets/800f9ec4-87c7-4746-99ad-014ea9875a70" />
 
 ## Features
-Order Level Analysis: Identify order distribution, calculate delivery charges and discounts.
-Completion Rate Analysis: Analyze completion rates by slot, day of the week, and number of products ordered.
-Customer Level Analysis: Determine completion rates by source, calculate Lifetime Value (LTV), and analyze revenue per order.
-Delivery Analysis: Analyze delivery times and charges across different parameters.
+
+<img width="831" height="142" alt="image" src="https://github.com/user-attachments/assets/a6acbf24-e152-47c1-ad99-a2574255e949" />
 
 ## Methodology
-Employed advanced Microsoft Excel skills for data organization and analysis.
-Utilized statistical methods and data visualization techniques within Excel.
-Employed Excel's functions and tools including pivot tables, charts, and conditional formatting.
+
+<img width="712" height="90" alt="image" src="https://github.com/user-attachments/assets/217f188d-ceb4-407c-9d9c-c4f8347a73ea" />
 
 ## Result
 Generated actionable insights and recommendations for Freshco Hypermarket, leveraging Excel's capabilities for data analysis and visualization to optimize operational efficiency and marketing strategies, resulting in a 20% sales boost, 99.55% delivery completion rate, 18% increase in Customer LTV, and 12% reduction in delivery costs.
