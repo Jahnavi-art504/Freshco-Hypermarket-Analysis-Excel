@@ -10,7 +10,7 @@ This repository contains the excel file and documentation for a data analysis pr
 
 <img width="1563" height="660" alt="image" src="https://github.com/user-attachments/assets/800f9ec4-87c7-4746-99ad-014ea9875a70" />
 
-## Key Areas Covered
+## 🔍 Key Areas Covered
 
 <img width="834" height="238" alt="image" src="https://github.com/user-attachments/assets/98742035-3268-4c3f-9a75-c4b91a2d9789" />
 
@@ -22,7 +22,7 @@ This repository contains the excel file and documentation for a data analysis pr
 
 <img width="552" height="126" alt="image" src="https://github.com/user-attachments/assets/6fafe7a7-81b5-415f-af5f-d618254ae255" />
 
-## Key Insights Delivered
+## 📊 Key Insights Delivered
 
 <img width="828" height="491" alt="image" src="https://github.com/user-attachments/assets/79e0a660-2431-4add-953b-171caac09243" />
 
@@ -36,5 +36,5 @@ This repository contains the excel file and documentation for a data analysis pr
 
 <img width="248" height="177" alt="image" src="https://github.com/user-attachments/assets/334cda50-4bc5-4f4e-b1ce-31e8223e357c" />
 
-## Result
+## 🚀 Result
 Generated actionable insights and recommendations for Freshco Hypermarket, leveraging Excel's capabilities for data analysis and visualization to optimize operational efficiency and marketing strategies, resulting in a 20% sales boost, 99.55% delivery completion rate, 18% increase in Customer LTV, and 12% reduction in delivery costs.
