@@ -12,5 +12,11 @@ This repository contains the excel file and documentation for a data analysis pr
 
 <img width="834" height="242" alt="image" src="https://github.com/user-attachments/assets/ba50a03b-cccc-4580-99da-fb1e4595e1a0" />
 
+## Key Insights:
+Orders peak in the morning and afternoon, with lower volumes at night.
+HSR Layout and ITI Layout are the most active delivery areas, while areas like Bomannahali – MicoLayout and Whitefield show potential for growth.
+High delivery charges and low discounts impact customer orders during late night slots.
+The overall completion rate is high, but certain areas like Cox Town need attention due to low completion rates.
+
 ## Result
 Generated actionable insights and recommendations for Freshco Hypermarket, leveraging Excel's capabilities for data analysis and visualization to optimize operational efficiency and marketing strategies, resulting in a 20% sales boost, 99.55% delivery completion rate, 18% increase in Customer LTV, and 12% reduction in delivery costs.
