@@ -10,7 +10,7 @@ This repository contains the excel file and documentation for a data analysis pr
 
 ## Methodology
 
-<img width="712" height="90" alt="image" src="https://github.com/user-attachments/assets/217f188d-ceb4-407c-9d9c-c4f8347a73ea" />
+<img width="834" height="242" alt="image" src="https://github.com/user-attachments/assets/ba50a03b-cccc-4580-99da-fb1e4595e1a0" />
 
 ## Result
 Generated actionable insights and recommendations for Freshco Hypermarket, leveraging Excel's capabilities for data analysis and visualization to optimize operational efficiency and marketing strategies, resulting in a 20% sales boost, 99.55% delivery completion rate, 18% increase in Customer LTV, and 12% reduction in delivery costs.
